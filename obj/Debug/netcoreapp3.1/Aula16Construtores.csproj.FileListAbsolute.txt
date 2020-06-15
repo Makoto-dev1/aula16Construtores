@@ -1,0 +1,13 @@
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\Aula16Construtores.exe
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\Aula16Construtores.deps.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\Aula16Construtores.runtimeconfig.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\Aula16Construtores.runtimeconfig.dev.json
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\Aula16Construtores.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\Aula16Construtores.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\Aula16Construtores.csprojAssemblyReference.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\Aula16Construtores.AssemblyInfoInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\Aula16Construtores.AssemblyInfo.cs
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\Aula16Construtores.csproj.CoreCompileInputs.cache
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\Aula16Construtores.dll
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\Aula16Construtores.pdb
+I:\Users\Makoto-dev\Desktop\Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\Aula16Construtores.genruntimeconfig.cache
